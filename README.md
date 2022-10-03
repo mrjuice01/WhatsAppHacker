@@ -18,7 +18,7 @@ DO NOT USE ON REAL VICTIMS FOR ANY REASON. CRIMINAL LAW WILL APPLY.
 
 > pkg install python3
 
-> git clone https://github.com/TermuxHackz/whatsapp-hacking
+> git clone https://github.com/mrjuice01/WhatsAppHacker.git
 
 > cd whatsapp-hacking
 
